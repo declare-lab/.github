@@ -1,4 +1,4 @@
-<img style="float: center;" src="declare.png" />
+<img style="float: center;" src="https://declare-lab.net/assets/images/resources/declare.png" />
 
 <h1> Hi! :wave::wave: </h1>
 
