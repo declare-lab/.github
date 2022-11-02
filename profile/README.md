@@ -1,4 +1,4 @@
-<img style="float: center;" src="declare.png">
+<img style="float: center;" src="declare.png" />
 
 <h1> Hi! :wave::wave: </h1>
 
@@ -6,4 +6,4 @@ Welcome fellow researchers to the DeCLaRe Lab! We hereby **DeCLaRe** our quest t
 
 <h1> And here is our TEAM! :smiley: </h1>
 
-<img style="float: center;" src="https://declare-lab.net/assets/images/resources/lab.jpg">
+<img style="float: center;" src="https://declare-lab.net/assets/images/resources/lab.jpg" />
