@@ -1,4 +1,4 @@
-<img style="float: left;" src="https://declare-lab.net/assets/images/logos/rec-light.png" width="50%" height="50%">
+<img src="declare.png">
 
 <h1> Hi! :wave::wave: </h1>
 
