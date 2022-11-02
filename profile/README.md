@@ -1,4 +1,4 @@
-<img src="declare.png">
+<img style="float: center;" src="declare.png">
 
 <h1> Hi! :wave::wave: </h1>
 
